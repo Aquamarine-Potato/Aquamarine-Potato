@@ -80,6 +80,99 @@ These website contain my personal comment and note on
 
 <table>
   <tr>
-    
+    <th colspan="2">Character: (Game/Anime)</th>
   </tr>
+  <tr>
+    <td><b>NAME</b></td>
+    <td><b>FROM</b></td>
+  </tr>
+  <tr>
+    <td>Yoisaki Kanade</td>
+    <td>Project Sekai</td>
+  </tr>
+    <tr>
+    <td>Hanaoka Makoto</td>
+    <td>Senpai Wa Otokonoko</td>
+  </tr>
+    <tr>
+    <td>Miyabi</td>
+    <td>Zenless Zone Zero</td>
+  </tr>
+    <tr>
+    <td>Firefly</td>
+    <td>Honkai Star rail</td>
+  </tr>
+    <tr>
+    <td>Iseri Nina</td>
+    <td rowspan="5">Girl Band Cry<br>Togenashi Togeari</br></td>
+  </tr>
+  </tr>
+    <td>Kawaragi Momoka</td>
+  </tr>
+    <td>Awa Subaru</td>
+  </tr>
+    <td>Ebizuka Tomo</td>
+  </tr>
+    <td>Rupa</td>
+  </tr>
+  <tr>
+    <td>Orguri Cap</td>
+    <td rowspan="2">Umamusume</td>
+  </tr>
+    <td>Tamamo Cross</td>
+  </tr>
+<tr>
+  <td>Sakayori Iroha</td>
+  <td rowspan="3">Chou Kaguya-hime</td>
+</tr>
+  <td>Kaguya</td>
+</tr>
+  <td>Runami Yachiyo</td>
+</tr>
+</table>
+<table>
+  <tr>
+    <td rowspan="1">Game</td>
+</tr>
+  <td>Rainbow 6: SIEGE</td>
+</tr>
+  <td>Roblox (Part of)</td>
+</tr>
+  <td>HELLDIVER II</td>
+</tr>
+  <td>OMORI</td>
+</tr>
+  <td>UNDERTALE</td>
+</tr>
+  <td>Needy Girl Overdose</td></td>
+</tr>
+  <td>Honkai: Star rail</td>
+</tr>
+  <td>Zenless Zone Zero</td>
+</tr>
+  <td>Project Sekai (Player Since 2022)</td>
+</tr>
+  <td>Microsoft Flight Simulator 2020</td>
+</tr>
+  <td>Minecraft</td>
+</tr>
+</table>
+<table>
+  <tr>
+    <td rowspan="1">Other</td>
+</tr>
+  <td>Airbus A350-900/1000</td>
+</tr>
+  <td>Cathay Pacific</td>
+</tr>
+  <td>Formula 1</td>
+</tr>
+  <td>Japan</td>
+</tr>
+  <td>Driving (Go-Kart or Actual Driving)</td>
+</tr>
+  <td>Gun?</td>
+</tr>
+  <td>Meme</td>
+</tr>  
 </table>
