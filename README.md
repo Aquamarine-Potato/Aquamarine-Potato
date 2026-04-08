@@ -176,3 +176,19 @@ These website contain my personal comment and note on
   <td>Meme</td>
 </tr>  
 </table>
+
+## What I Hate/Dislike
+- People that always say parents are the worst (Situation based)
+- People that show clearly but not saying the truth
+- Brain-Rot
+- People that scream or laugh randomly (If they have no mental issue)
+- People doing non-sense
+- People only live in internet but not going outside and touch some GRASS
+- Some LGBTQ+ community (Mainly USA) (I need to clarify thhat I don't hate LGBTQ+ and I am fine with that)
+- Furry (Always link to LGBTQ+)
+- People that is not focus on one people (Partner)
+- Not saying the reason (angry or other)
+- Sudden LOUD NOISE
+- Clearly know the fact but still try to TWIST the fact
+- People trying to say Linux is best OS (I know Linux is good in someway but too much effort to use it. And every OS have the positive and negative point)
+
