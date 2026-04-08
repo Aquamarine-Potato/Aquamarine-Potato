@@ -50,6 +50,13 @@ A person currently in UK doing education (college) and planning to do university
 </tr>
 </table>
 
+## Operating System I use
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,apple,linux" />
+  </a>
+</p>
+
 ## What I Love/Like
 <table>
 <tr>
@@ -130,6 +137,7 @@ These website contain my personal comment and note on
   <td>Runami Yachiyo</td>
 </tr>
 </table>
+
 <table>
   <tr>
     <td rowspan="1">Game</td>
@@ -192,3 +200,7 @@ These website contain my personal comment and note on
 - Clearly know the fact but still try to TWIST the fact
 - People trying to say Linux is best OS (I know Linux is good in someway but too much effort to use it. And every OS have the positive and negative point)
 
+## Music
+- Unfortunately Github do not support any other API like <iframe>. So if anyone intreseted you need to go to https://lit.link/en/smallpotato which is my original bios and the top section is already out of date and I am not going to update it anymore. I will import video and music once I found a solution
+
+### Last Updated: 08-04-2026
