@@ -68,7 +68,7 @@ A person currently in UK doing education (college) and planning to do university
   </tr>
   <tr>
     <td>Senpai Wa Otokonoko</td>
-    <td>#1 Ramantic Anime</td>
+    <td>#1 Romantic Anime</td>
   </tr>
   <tr>
     <td>Lycoris Recoil</td>
