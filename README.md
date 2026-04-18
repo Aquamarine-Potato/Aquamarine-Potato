@@ -136,6 +136,12 @@ These website contain my personal comment and note on
 </tr>
   <td>Runami Yachiyo</td>
 </tr>
+   <tr>
+    <td>Ame/糖糖</td>
+    <td rowspan="2">Needy Girl Overdose</td>
+  </tr>
+    <td>KAngel/超絶最かわてんしちゃん</td>
+  </tr>
 </table>
 
 <table>
