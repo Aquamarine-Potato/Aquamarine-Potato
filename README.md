@@ -48,6 +48,10 @@ A person currently in UK doing education (college) and planning to do university
   <td>Photograph</td>
   <td>Again it might be not the best but I love to take picture with my professtional camera. I got 21 lens which is 16mm-32mm and the big boi 100mm-400mm. Big boi is for plane spotting</td>
 </tr>
+  <tr>
+  <td>otomad/音mad</td>
+  <td>I finshed my first otomad on 19 april and I will try to push more soon. Hopefully with self-made remix and video</td>
+</tr>
 </table>
 
 ## Operating System I use
