@@ -106,7 +106,7 @@ These website contain my personal comment and note on
     <td>Senpai Wa Otokonoko</td>
   </tr>
     <tr>
-    <td>Miyabi</td>
+    <td>Hoshimi Miyabi</td>
     <td>Zenless Zone Zero</td>
   </tr>
     <tr>
