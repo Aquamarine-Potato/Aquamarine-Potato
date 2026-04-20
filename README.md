@@ -202,7 +202,7 @@ These website contain my personal comment and note on
 - People that scream or laugh randomly (If they have no mental issue)
 - People doing non-sense
 - People only live in internet but not going outside and touch some GRASS
-- Some LGBTQ+ community (Mainly USA) (I need to clarify thhat I don't hate LGBTQ+ and I am fine with that)
+- Some LGBTQ+ community (Mainly USA) (I need to clarify that I don't hate LGBTQ+ and I am fine with that)
 - Furry (Always link to LGBTQ+)
 - People that is not focus on one people (Partner)
 - Not saying the reason (angry or other)
