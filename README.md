@@ -84,7 +84,7 @@ A person currently in UK doing education (college) and planning to do university
   </tr>
 </table>
 
-- More on: https://myanimelist.net/animelist/siu_potato?status=7
+- More on: https://myanimelist.net/animelist/siu_potato?status=7 (NO LONGER IN USE PLEASE USE THE ANILIST)
 - Better one on: https://anilist.co/user/AquamainrePotato/animelist
 <br></br>
 These website contain my personal comment and note on
