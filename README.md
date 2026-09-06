@@ -212,4 +212,18 @@ These website contain my personal comment and note on
 ## Music
 - Unfortunately Github do not support any other API like <iframe>. So if anyone intreseted you need to go to https://lit.link/en/smallpotato which is my original bios and the top section is already out of date and I am not going to update it anymore. I will import video and music once I found a solution
 
+## Quote
+空っぽな心じゃ泣けないくらいに
+くすぶって音もない声うずいて
+果たしたいことすら  煙って霞んでゆくのさ 
+*__- 誰にもなれない私だから | Togenashi Togenari__*
+﻿
+ねえ どうして神様はさ
+出会いと一緒にサヨナラを
+きつくリボンで結びつけてプレゼントしたの？ 
+*__- Amora | ReoNa__*
+﻿
+「不止死人要超渡，生人也需要破地獄，生人都有好多地獄。」
+*__- 破地獄__*
+
 ### Last Updated: 20-04-2026
