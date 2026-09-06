@@ -213,17 +213,37 @@ These website contain my personal comment and note on
 - Unfortunately Github do not support any other API like <iframe>. So if anyone intreseted you need to go to https://lit.link/en/smallpotato which is my original bios and the top section is already out of date and I am not going to update it anymore. I will import video and music once I found a solution
 
 ## Quote
-空っぽな心じゃ泣けないくらいに
-くすぶって音もない声うずいて
-果たしたいことすら  煙って霞んでゆくのさ 
-*__- 誰にもなれない私だから | Togenashi Togenari__*
-﻿
-ねえ どうして神様はさ
-出会いと一緒にサヨナラを
-きつくリボンで結びつけてプレゼントしたの？ 
-*__- Amora | ReoNa__*
-﻿
-「不止死人要超渡，生人也需要破地獄，生人都有好多地獄。」
-*__- 破地獄__*
+<table>
+  <tr>
+    <th colspan="2">Quote</th>
+  </tr>
+  <tr>
+    <td>
+      空っぽな心じゃ泣けないくらいに<br>
+      くすぶって音もない声うずいて<br>
+      果たしたいことすら<br>
+      煙って霞んでゆくのさ
+    </td>
+    <td>
+      <a href="https://youtu.be/Go6wsJwKf4c?si=uo2WwKM6XllRvyeD">
+        誰にもなれない私だから | Togenashi Togenari
+      </a>
+    </td>
+  </tr>
+  <tr>
+  <td>ねえ どうして神様はさ<br>出会いと一緒にサヨナラを<br>きつくリボンで結びつけてプレゼントしたの？ </td>
+  <td>
+    <a href="https://youtu.be/6C3zYwUmMKE?si=gJzdt2OmmzSKFF61">
+      Amora | ReoNa</td>
+</tr>  
+  <tr>
+    <td>「不止死人要超渡，生人也需要破地獄，生人都有好多地獄。」</td>
+    <td>破地獄</td>
+  </tr>
+  <tr>
+    <td>SUCCESS IS NOT THE FINAL, FAILURE IS NOT FATAL.<br>IT IS COURAGE TO CONTINUE THAT COUNTS.</td>
+    <td>WINSTON CHURCHILL</td>
+  </tr>
 
-### Last Updated: 20-04-2026
+</table>
+### Last Updated: 06-09-2026
