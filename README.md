@@ -151,7 +151,7 @@ These website contain my personal comment and note on
   <tr>
     <td rowspan="1">Game</td>
 </tr>
-  <td>Rainbow 6: SIEGE</td>
+  <td>Rainbow 6: SIEGE (Peak Rank: GOLD V)<br>(I need to touch some grass)</td>
 </tr>
   <td>Roblox (Part of)</td>
 </tr>
@@ -169,10 +169,15 @@ These website contain my personal comment and note on
 </tr>
   <td>Project Sekai (Player Since 2022)</td>
 </tr>
+  <td>OSU</td>
+</tr>
+  <td>Maimai DX (Arcade)</td>
+</tr>
+  <td>chunithm (Arcade)</td>
+</tr>
   <td>Microsoft Flight Simulator 2020</td>
 </tr>
   <td>Minecraft</td>
-</tr>
 </table>
 <table>
   <tr>
@@ -188,8 +193,6 @@ These website contain my personal comment and note on
 </tr>
   <td>Driving (Go-Kart or Actual Driving)</td>
 </tr>
-  <td>Gun?</td>
-</tr>
   <td>Meme</td>
 </tr>  
 </table>
@@ -201,13 +204,15 @@ These website contain my personal comment and note on
 - People that scream or laugh randomly (If they have no mental issue)
 - People doing non-sense
 - People only live in internet but not going outside and touch some GRASS
-- Some LGBTQ+ community (Mainly USA) (I need to clarify that I don't hate LGBTQ+ and I am fine with that)
+- Some LGBTQ+ community (Mainly USA) (I need to clarify that I don't hate LGBTQ+ and I am fine with that and I like Yuri)
 - Furry (Always link to LGBTQ+)
 - People that is not focus on one people (Partner)
 - Not saying the reason (angry or other)
 - Sudden LOUD NOISE
 - Clearly know the fact but still try to TWIST the fact
 - People trying to say Linux is best OS (I know Linux is good in someway but too much effort to use it. And every OS have the positive and negative point)
+- People that think they are the leader of the peoples. However they are not and carry out some shit job
+- People complaining non-sense 
 
 ## Music
 - Unfortunately Github do not support any other API like <iframe>. So if anyone intreseted you need to go to https://lit.link/en/smallpotato which is my original bios and the top section is already out of date and I am not going to update it anymore. I will import video and music once I found a solution
