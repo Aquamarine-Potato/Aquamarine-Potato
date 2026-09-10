@@ -127,9 +127,11 @@ These website contain my personal comment and note on
   </tr>
   <tr>
     <td>Orguri Cap</td>
-    <td rowspan="2">Umamusume</td>
+    <td rowspan="3">Umamusume</td>
   </tr>
     <td>Tamamo Cross</td>
+  </tr>
+    <td>Anges Digital</td>
   </tr>
 <tr>
   <td>Sakayori Iroha</td>
