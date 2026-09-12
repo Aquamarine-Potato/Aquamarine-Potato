@@ -12,8 +12,8 @@ A person currently in UK doing education (college) and planning to do university
 <p>Chinese (Both) ✔️ | English ✔️ | Japanese (In Progress)</p>
 <p>國語 ✔️ | 廣東話 ✔️｜英文 ✔️ | 日文 (學習中）</p>
 
-- Currently trying to social more people to getting a much more stable life. Trying to make myself as happy as I can. I don't want to stuck in the house and playing game everyday or watch VTuber/Anime 24/7. I really like planes so I am thinking getting a job that related to aviation. Is quite heavy to say that I am really difference from before but it has to be this way. If you found difficult to speak to me in English you can use Chinese to communicate!
-- 目前正努力與更多人認識，以獲得更穩定的生活。盡可能讓自己快樂。我不想困在房子裡每天玩遊戲或 24 小時看Vtuber/動畫。我很喜歡飛機，所以我想找一份與航空有關的工作。說我和以前真的很不一樣。(DeepL translate)
+- Currently trying to social more people to getting a much more stable life. Trying to make myself as happy as I can. I don't want to stuck in the house and playing game everyday or watch Anime 24/7. I really like planes so I am thinking getting a job that related to aviation. Is quite heavy to say that I am really difference from before but it has to be this way. If you found difficult to speak to me in English you can use Chinese to communicate!
+- 目前正努力與更多人認識，以獲得更穩定的生活。盡可能讓自己快樂。我不想困在房子裡每天玩遊戲或 24 小時看動畫。我很喜歡飛機，所以我想找一份與航空有關的工作。說我和以前真的很不一樣。(DeepL translate)
 <br></br>
 - Anime Enjoyer
 - Aviation Enjoyer
