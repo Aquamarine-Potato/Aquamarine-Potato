@@ -21,6 +21,7 @@ A person currently in UK doing education (college) and planning to do university
 - Yuri Enjoyer
 - Computer Enjoyer
 - Game Enjoyer
+- VTuber Enjoyer <- NEW!
 
 <table>
   <tr>
@@ -250,6 +251,10 @@ These website contain my personal comment and note on
   <tr>
     <td>SUCCESS IS NOT THE FINAL, FAILURE IS NOT FATAL.<br>IT IS COURAGE TO CONTINUE THAT COUNTS.</td>
     <td>WINSTON CHURCHILL</td>
+  </tr>
+    <tr>
+    <td>Despite everything, it's still you</td>
+    <td>Undertale | Toby Fox</td>
   </tr>
 
 </table>
