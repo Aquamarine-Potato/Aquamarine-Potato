@@ -48,7 +48,7 @@ A person currently in UK doing education (college) and planning to do university
   <td>I can build PC and to be honest is easy to do. Is like building a car without connecting million of cable</td>
 <tr>
   <td>Photograph</td>
-  <td>Again it might be not the best but I love to take picture with my professtional camera. I got 21 lens which is 16mm-32mm and the big boi 100mm-400mm. Big boi is for plane spotting</td>
+  <td>Again it might be not the best but I love to take picture with my professtional camera. I got 2 lens which is 16mm-32mm and the big boi 100mm-400mm. Big boi is for plane spotting</td>
 </tr>
   <tr>
   <td>otomad/音mad</td>
@@ -190,11 +190,10 @@ These website contain my personal comment and note on
 </tr>
   <tr>
     <td>Gigi Murin</td>
-    <td>HololiveEN</td>
+    <td rowspan="2">HololiveEN<br>AUTOFISTER</br></td>
   </tr>
   <tr>
     <td>Cecilia Immergreen</td>
-    <td>HololiveEN</td>
   </tr>
   <tr>
     <td>Sameko Saba</td>
