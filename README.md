@@ -12,8 +12,9 @@ A person currently in UK doing education (college) and planning to do university
 <p>Chinese (Both) ✔️ | English ✔️ | Japanese (In Progress)</p>
 <p>國語 ✔️ | 廣東話 ✔️｜英文 ✔️ | 日文 (學習中）</p>
 
-- Currently trying to social more people to getting a much more stable life. Trying to make myself as happy as I can. I don't want to stuck in the house and playing game everyday or watch Anime 24/7. I really like planes so I am thinking getting a job that related to aviation. Is quite heavy to say that I am really difference from before but it has to be this way. If you found difficult to speak to me in English you can use Chinese to communicate!
-- 目前正努力與更多人認識，以獲得更穩定的生活。盡可能讓自己快樂。我不想困在房子裡每天玩遊戲或 24 小時看動畫。我很喜歡飛機，所以我想找一份與航空有關的工作。說我和以前真的很不一樣。(DeepL translate)
+- I found my last piece to completely stop all the voice inside my mind. I just need something to distract my brain to think all of those thing. However life move on and my final goal is to find a aviation job and then use those money to the things that I want. (Most money to my Oshi(X). If you found difficult to speak to me in English you can use Chinese to communicate!
+
+- 我找到了最後一塊拼圖，可以讓我暫時停止腦海裡那些不斷出現的聲音。我只需要找到一些事情分散自己的注意力，不再一直思考那些事情。不過，生活還是要繼續向前，而我最後的目標，就是找到一份航空業的工作，然後用自己賺到的錢去做真正想做的事情。大部分的錢都會花在我的 Oshi（X）身上。 如果你覺得用英文和我溝通有點困難，也可以直接用中文和我交流！ (ChatGPT Translate)
 <br></br>
 - Anime Enjoyer
 - Aviation Enjoyer
@@ -21,7 +22,7 @@ A person currently in UK doing education (college) and planning to do university
 - Yuri Enjoyer
 - Computer Enjoyer
 - Game Enjoyer
-- VTuber Enjoyer <- NEW!
+- VTuber Enjoyer <mark> <- NEW!<mark/>
 
 <table>
   <tr>
@@ -182,6 +183,49 @@ These website contain my personal comment and note on
 </tr>
   <td>Minecraft</td>
 </table>
+
+<table>
+<tr>
+  <th colspan="2">Vtuber That I Watch (In Rank... Sorry)</th>
+</tr>
+  <tr>
+    <td>Gigi Murin</td>
+    <td>HololiveEN</td>
+  </tr>
+  <tr>
+    <td>Cecilia Immergreen</td>
+    <td>HololiveEN</td>
+  </tr>
+  <tr>
+    <td>Sameko Saba</td>
+    <td>Independents</td>
+  </tr>
+  <tr>
+    <td>Rin Penrose</td>
+    <td>Independents</td>
+  </tr>
+  <tr>
+    <td>Dooby</td>
+    <td>Independents</td>
+  </tr>
+  <tr>
+    <td>Ninomae Ina'nis</td>
+    <td>HololiveEN</td>
+  </tr>
+  <tr>
+    <td> Chihaya | 輪堂 千速</td>
+    <td>HololiveJP</td>
+  </tr>
+  <tr>
+    <td>FUWAMOCO</td>
+    <td>HololiveEN</td>
+  </tr>
+  <tr>
+    <td>Chibidoki(Crazy one)</td>
+    <td>Independents</td>
+  </tr>
+</table>
+
 <table>
   <tr>
     <td rowspan="1">Other</td>
@@ -259,4 +303,4 @@ These website contain my personal comment and note on
 
 </table>
 
-### Last Updated: 06-09-2026
+### Last Updated: 23-09-2026
