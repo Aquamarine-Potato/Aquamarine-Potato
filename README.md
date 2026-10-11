@@ -223,6 +223,14 @@ These website contain my personal comment and note on
     <td>Chibidoki(Crazy one)</td>
     <td>Independents</td>
   </tr>
+   <tr>
+    <td>Dokibird</td>
+    <td>Independents</td>
+  </tr>
+   <tr>
+    <td>Maid Mint</td>
+    <td>Independents</td>
+  </tr>
 </table>
 
 <table>
@@ -247,7 +255,6 @@ These website contain my personal comment and note on
 - People that always say parents are the worst (Situation based)
 - People that show clearly but not saying the truth
 - Brain-Rot
-- People that scream or laugh randomly (If they have no mental issue)
 - People doing non-sense
 - People only live in internet but not going outside and touch some GRASS
 - Some LGBTQ+ community (Mainly USA) (I need to clarify that I don't hate LGBTQ+ and I am fine with that and I like Yuri)
